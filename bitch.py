@@ -127,7 +127,7 @@ if submit_button:
 st.markdown(
     """
     <hr style='border: 2px solid #555;'>
-    <p style='text-align: center; color: #ff6347;'>Built with Streamlit ❤ | Make Smart Bets!</p>
+    <p style='text-align: center; color: #ff6347;'>Built by Rithik ❤ | Make Smart Bets!</p>
     """,
     unsafe_allow_html=True
 )
